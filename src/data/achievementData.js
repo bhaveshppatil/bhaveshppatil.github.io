@@ -19,7 +19,7 @@ export const achievementData = {
         },
         {
             id : 3,
-            title : 'Fundamentals of digital marketing',
+            title : 'Fundamentals of digital marketing certification',
             details : 'Master the basics of digital marketing with our free Interactive Advertising Bureau-accredited course. There are 26 modules to explore, all created by Google trainers.',
             date : 'Aug 20, 2019',
             field : 'Computer',
