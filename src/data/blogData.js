@@ -1,43 +1,43 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        title: 'How To Secure Your Instagram Account - Stay Safe On Instagram',
+        description: 'People are joining daily on Instagram. Along with this, many accounts are also being hacked. If you want to save your Instagram account and personal data, I have shared some tips below to read them.',
+        date: 'Sept 13, 2019',
+        image: 'https://1.bp.blogspot.com/-UY2wEoGGtGY/X24Wx9qPvJI/AAAAAAAABAE/laWTxzudhiUxPpeNaW3mbyZ6kNF7ajZowCNcBGAsYHQ/s800/Protect%2BYour%2BInstagram%2BPrivacy%2B%25281%2529.png',
+        url: 'https://teachmyability.blogspot.com/2020/09/how-to-secure-your-instagram-account.html'
     },
     {
         id: 2,
-        title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-        description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-        date: 'Aug 11, 2020',
-        image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
-        url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
+        title: 'What Is Shoulder Surfing Attack?',
+        description: 'The great thing about shoulder surfing is that it is quite easy to do, and you do not need a lot of technical knowledge.',
+        date: 'Feb 20, 2020',
+        image: 'https://1.bp.blogspot.com/-lBp5WM0-egc/Xlep3Ct8TzI/AAAAAAAAAzI/fLQpUBwSqAkiJHaYCuQpRYC9bvGwwCFAACNcBGAsYHQ/s640/shoulder%2Bsurfing.jpg',
+        url: 'https://teachmyability.blogspot.com/2020/02/what-is-shoulder-surfing-attack.html'
     },
     {
         id: 3,
-        title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-        description: 'Here are some basic ways to lay off the Radar',
-        date: 'Aug 14, 2020',
-        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-        url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
+        title: 'Learn Ethical Hacking: Step-By-Step-Guide For Beginners',
+        description: 'This post is going to be very helpful for those who are beginners because of today in this post, I am going to clear you all the points of hacking like…',
+        date: 'Jan 14, 2020',
+        image: 'https://1.bp.blogspot.com/-SwMpCYyNnUA/XiqysI62v-I/AAAAAAAAAms/zfELNW6YoWcPa6yNSIquFa9uioU1vf5JwCNcBGAsYHQ/s640/PicsArt_01-24-02.17.33.jpg',
+        url: 'https://teachmyability.blogspot.com/2020/01/learn-ethical-hacking-step-by-step.html'
     },
     {
         id: 4,
-        title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',
-        description: 'Want to check your internet speed from the terminal? Here\'s the perfect way to the that.',
-        date: 'Sep 17, 2020',
-        image: 'https://1.bp.blogspot.com/-XTVMsZP3HaM/Xxpl394txlI/AAAAAAAABws/zovXWiuNGg4TzBwYYVFfJ1ixDb3JfVokgCNcBGAsYHQ/w400-h195/speedtest.png',
-        url: 'https://hackzism.blogspot.com/2020/07/check-internet-speed-from-command-line.html'
+        title: 'What Is Piggybacking?',
+        description: ' if you dont know what is piggybacking, How piggybacking used in hacking, and what is the term of piggybacking. If all these questions are coming in your mind, then you have come to the right place.',
+        date: 'Feb 17, 2020',
+        image: 'https://1.bp.blogspot.com/-KpDxr6FvxOw/XkfZmS9JttI/AAAAAAAAAw8/LCDZV2prOJ4Dy5dH6TBI_0rAj5NbfEMBACNcBGAsYHQ/s640/PicsArt_02-15-04.20.04.jpg',
+        url: 'https://teachmyability.blogspot.com/2020/02/what-is-piggybacking.html'
     },
     {
         id: 5,
-        title: 'GET MICHAEL\'S OR TREVOR\'S VEHICLES FULLY UPGRADED IN GTA V FOR FREE',
-        description: 'In case you haven\'t heard of this game, GTA stands for \'Grand Theft Auto\'. It is an open-world game published by Rockstar Games.',
-        date: 'Oct 1, 2020',
-        image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html'
+        title: 'Guidelines For Selecting Strong password: Computer Security',
+        description: ' I have talked about how to choose a strong password and why to choose it. All the criteria of how to select a reliable & secure password, you will be covered in this post today.',
+        date: 'Oct 20, 2019',
+        image: 'https://1.bp.blogspot.com/-hxy1UIY0bCo/XjrhijlXf9I/AAAAAAAAAsw/Be12TGc9cyINLlm7HpQHS88jYD2FvPp_wCNcBGAsYHQ/s640/registration.jpg',
+        url: 'https://teachmyability.blogspot.com/2020/02/guidelines-for-selecting-strong-password.html'
     },
 ]
 

@@ -1,8 +1,9 @@
 /* eslint-disable */
-import { BiShoppingBag, BiPencil } from "react-icons/bi";
+import { BiShoppingBag, BiPencil, BiPhone, BiMobile } from "react-icons/bi";
 import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
 import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
-import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
+import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper, FaHackerNewsSquare } from "react-icons/fa";
+import { Security } from "@material-ui/icons";
 
  
 
@@ -14,19 +15,19 @@ export const servicesData = [
     // },
     {
         id: 2,
-        title: 'Content Writing',
-        icon: <BiPencil /> 
-    },
-    {
-        id: 3,
-        title: 'Email Marketing',
-        icon: <AiOutlineMail />
+        title: 'Android Developement',
+        icon: <BiMobile /> 
     },
     // {
-    //     id: 4,
-    //     title: 'Internet Research',
-    //     icon: <FaInternetExplorer />
+    //     id: 3,
+    //     title: '',
+    //     icon: <AiOutlineMail />
     // },
+    {
+        id: 4,
+        title: 'Internet Research',
+        icon: <FaInternetExplorer />
+    },
     // {
     //     id: 5,
     //     title: 'Tutoring',
@@ -35,7 +36,7 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'App Designing',
         icon: <BsCodeSlash />
     },
     {
@@ -60,8 +61,8 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
-        icon: <FaTabletAlt />
+        title: 'Ethical hacking',
+        icon: <FaHackerNewsSquare />
     },
     // {
     //     id: 12,

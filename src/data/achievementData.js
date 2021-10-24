@@ -3,27 +3,27 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'Android Developement Certification',
+            details : 'Full Stack Android Developement Course at Masai School,with subjects like Java, DS, Algorithms, Android, Kotlin, SQLite, MVVM.',
+            date : 'April 20, 2021',
+            field : 'Computer',
+            image : 'https://cdn.pixabay.com/photo/2015/10/18/18/07/android-994910_960_720.jpg'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'Ethical Hacking certification',
+            details : 'Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.',
+            date : 'Feb 18 2020',
+            field : 'Cyber Security',
+            image : 'https://cdn.pixabay.com/photo/2019/04/29/09/33/anonymous-4165613_960_720.jpg'
         },
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
+            title : 'Fundamentals of digital marketing',
+            details : 'Master the basics of digital marketing with our free Interactive Advertising Bureau-accredited course. There are 26 modules to explore, all created by Google trainers.',
             date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            field : 'Computer',
+            image : 'https://lh3.googleusercontent.com/JwZ74w1xLAO0n24knlxgL9HZJo3NTN3V44YrtyXZvivX4sHYmiyBs89KIxTOIYTR4IDgFq-VFx6L3gutEpDkpicLzl96KKSYbVh3f08'
         }
 
     ]
