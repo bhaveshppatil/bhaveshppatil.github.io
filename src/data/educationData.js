@@ -8,8 +8,8 @@ export const educationData = [
     },
     {
         id: 2,
-        institution: 'University of Mumbai',
-        course: 'Diploma of Education, Field Of Study Computer Science',
+        institution: 'Government Polytechnic Pen',
+        course: 'Diploma of Education, Field Of Study Computer Technology',
         startYear: '2017',
         endYear: '2019'
     },
@@ -20,11 +20,11 @@ export const educationData = [
         startYear: '2014',
         endYear: '2016'
     },
-    {
-        id: 4,
-        institution: 'S.C.S.M.Vasheni-Uran, Mumbai university',
-        course: 'High School',
-        startYear: '2013',
-        endYear: '2014'
-    },
+    // {
+    //     id: 4,
+    //     institution: 'S.C.S.M.Vasheni-Uran, Mumbai university',
+    //     course: 'High School',
+    //     startYear: '2013',
+    //     endYear: '2014'
+    // },
 ]

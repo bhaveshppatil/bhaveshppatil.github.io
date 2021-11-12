@@ -1,11 +1,11 @@
 export const blogData = [
     {
         id: 1,
-        title: 'How To Secure Your Instagram Account - Stay Safe On Instagram',
-        description: 'People are joining daily on Instagram. Along with this, many accounts are also being hacked. If you want to save your Instagram account and personal data, I have shared some tips below to read them.',
-        date: 'Sept 13, 2019',
-        image: 'https://1.bp.blogspot.com/-UY2wEoGGtGY/X24Wx9qPvJI/AAAAAAAABAE/laWTxzudhiUxPpeNaW3mbyZ6kNF7ajZowCNcBGAsYHQ/s800/Protect%2BYour%2BInstagram%2BPrivacy%2B%25281%2529.png',
-        url: 'https://teachmyability.blogspot.com/2020/09/how-to-secure-your-instagram-account.html'
+        title: 'What Is Piggybacking?',
+        description: ' if you dont know what is piggybacking, How piggybacking used in hacking, and what is the term of piggybacking. If all these questions are coming in your mind, then you have come to the right place.',
+        date: 'Feb 17, 2020',
+        image: 'https://1.bp.blogspot.com/-KpDxr6FvxOw/XkfZmS9JttI/AAAAAAAAAw8/LCDZV2prOJ4Dy5dH6TBI_0rAj5NbfEMBACNcBGAsYHQ/s640/PicsArt_02-15-04.20.04.jpg',
+        url: 'https://teachmyability.blogspot.com/2020/02/what-is-piggybacking.html'
     },
     {
         id: 2,
@@ -25,11 +25,11 @@ export const blogData = [
     },
     {
         id: 4,
-        title: 'What Is Piggybacking?',
-        description: ' if you dont know what is piggybacking, How piggybacking used in hacking, and what is the term of piggybacking. If all these questions are coming in your mind, then you have come to the right place.',
-        date: 'Feb 17, 2020',
-        image: 'https://1.bp.blogspot.com/-KpDxr6FvxOw/XkfZmS9JttI/AAAAAAAAAw8/LCDZV2prOJ4Dy5dH6TBI_0rAj5NbfEMBACNcBGAsYHQ/s640/PicsArt_02-15-04.20.04.jpg',
-        url: 'https://teachmyability.blogspot.com/2020/02/what-is-piggybacking.html'
+        title: 'How To Secure Your Instagram Account - Stay Safe On Instagram',
+        description: 'People are joining daily on Instagram. Along with this, many accounts are also being hacked. If you want to save your Instagram account and personal data, I have shared some tips below to read them.',
+        date: 'Sept 13, 2019',
+        image: 'https://1.bp.blogspot.com/-UY2wEoGGtGY/X24Wx9qPvJI/AAAAAAAABAE/laWTxzudhiUxPpeNaW3mbyZ6kNF7ajZowCNcBGAsYHQ/s800/Protect%2BYour%2BInstagram%2BPrivacy%2B%25281%2529.png',
+        url: 'https://teachmyability.blogspot.com/2020/09/how-to-secure-your-instagram-account.html'
     },
     {
         id: 5,

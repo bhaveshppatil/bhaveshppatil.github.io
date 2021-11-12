@@ -6,9 +6,9 @@
     'Firebase',
     'Git',
     'MySQL',
-    'Microsoft Office',
     'MaterialUI',
     'Lightroom',
+    'Microsoft Office',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

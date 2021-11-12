@@ -15,30 +15,39 @@ export const projectsData = [
         projectDesc: 'Location based app, that is used to see location, Direction & Weather data.',
         tags: ['Android Studio', 'Java', 'Google SDK', 'Material Ui'],
         code: 'https://github.com/bhaveshppatil/Real_Time_Location',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://drive.google.com/file/d/1gVXaHFbfXMDfgqgBIyfqOKvWfctG7FJN/view?usp=sharing',
         image: six
     },
     {
         id: 2,
-        projectName: 'Task Manager App',
-        projectDesc: 'A Task Manager App that Track and Manage your Daily Routine🚴‍♂️💪📱',
-        tags: ['Kotlin', 'SQLite', 'Material-UI','Firebase'],
+        projectName: 'TickTask: To-Do List',
+        projectDesc: 'Task manager app which helps you to make a schedule, manage time and stay focused.🚴‍♂️💪📱',
+        tags: ['Kotlin', 'Room-DB', 'MVVM','Material-UI','Firebase'],
         code: 'https://github.com/bhaveshppatil/_.MyJournalApp_',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://drive.google.com/file/d/1LE7VY4dWqjkO8GFASj2rCoPr5UxAu24o/view?usp=sharing',
         image: four
        
     },
     {
         id: 3,
+        projectName: 'Foodvisor App',
+        projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
+        tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
+        code: 'https://github.com/bhaveshppatil/_Foodvisor_',
+        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        image: five
+    },
+    {
+        id: 4,
         projectName: 'BookMyShow App ',
         projectDesc: 'Bookmyshow is Indias largest entertainment ticket booking platform. Its a Service which allows users to buy tickets for movies, concerts and much more',
         tags: ['Firebase', 'Java','Glide', 'Retrofit','Navigation', 'Fragments', 'Material Ui'],
-        code: 'https://github.com/bhaveshppatil/BookMyShow.git',
+        code: 'https://github.com/bhaveshppatil/BookMyShow',
         demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         image: three
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Yummly Recipes Cooking Tools App',
         projectDesc: 'Yummly is the smart cooking app thats all about YOU. Yummly is here to help you conquer the kitchen, your way.',
         tags: ['Java', 'Kotlin', 'JSON', 'Retrofit', 'Material UI', 'Firebase'],
@@ -47,7 +56,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 5,
+        id: 6,
         projectName: 'Happn Online Dating App ',
         projectDesc: 'Happn is a location-based app that allows users to interact with each other consensually.',
         tags: ['Android Studio ', 'Java', 'Firebase', 'Material UI'],
@@ -56,7 +65,7 @@ export const projectsData = [
         image: two
     },
     {
-        id: 6,
+        id: 7,
         projectName: 'Stop Watch App',
         projectDesc: 'Simple stopwatch android app, which is developed using JAVA',
         tags: ['Android Studio', 'Services', 'Material UI'],
@@ -65,22 +74,13 @@ export const projectsData = [
         image: one
     },
     {
-        id: 7,
+        id: 8,
         projectName: 'Quiz App',
         projectDesc: 'This is a simple quiz application with SQLite database🎲🎡💥',
         tags: ['Kotlin', 'SQLite', 'Android'],
         code: 'https://github.com/bhaveshppatil/_QuizApp_',
         demo: 'https://github.com/bhaveshppatil/_QuizApp_',
         image: seven
-    },
-    {
-        id: 8,
-        projectName: 'iTunes App',
-        projectDesc: 'A Simple ITunes app, developed using java🎡💥',
-        tags: ['Java', 'API', 'Services', 'Material UI'],
-        code: 'https://github.com/bhaveshppatil/Android_Practice_Set/tree/main/iTunesAPI',
-        demo: 'https://github.com/bhaveshppatil/Android_Practice_Set/tree/main/iTunesAPI',
-        image: eight
     },
 ]
 
