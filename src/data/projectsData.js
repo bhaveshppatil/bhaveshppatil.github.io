@@ -20,11 +20,11 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'TickTask: To-Do List',
+        projectName: 'TickTask: Routine Manager',
         projectDesc: 'Task manager app which helps you to make a schedule, manage time and stay focused.🚴‍♂️💪📱',
         tags: ['Kotlin', 'Room-DB', 'MVVM','Material-UI','Firebase'],
         code: 'https://github.com/bhaveshppatil/_.MyJournalApp_',
-        demo: 'https://drive.google.com/file/d/1LE7VY4dWqjkO8GFASj2rCoPr5UxAu24o/view?usp=sharing',
+        demo: 'https://play.google.com/store/apps/details?id=com.masai.myjournalapp',
         image: four
        
     },
@@ -34,7 +34,7 @@ export const projectsData = [
         projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
         tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
         code: 'https://github.com/bhaveshppatil/_Foodvisor_',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://github.com/bhaveshppatil/_Foodvisor_',
         image: five
     },
     {
@@ -43,7 +43,7 @@ export const projectsData = [
         projectDesc: 'Bookmyshow is Indias largest entertainment ticket booking platform. Its a Service which allows users to buy tickets for movies, concerts and much more',
         tags: ['Firebase', 'Java','Glide', 'Retrofit','Navigation', 'Fragments', 'Material Ui'],
         code: 'https://github.com/bhaveshppatil/BookMyShow',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://github.com/bhaveshppatil/BookMyShow',
         image: three
     },
     {
@@ -52,7 +52,7 @@ export const projectsData = [
         projectDesc: 'Yummly is the smart cooking app thats all about YOU. Yummly is here to help you conquer the kitchen, your way.',
         tags: ['Java', 'Kotlin', 'JSON', 'Retrofit', 'Material UI', 'Firebase'],
         code: 'https://github.com/bhaveshppatil/YummlyRecipesCookingTools',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://github.com/bhaveshppatil/YummlyRecipesCookingTools',
         image: five
     },
     {
@@ -61,7 +61,7 @@ export const projectsData = [
         projectDesc: 'Happn is a location-based app that allows users to interact with each other consensually.',
         tags: ['Android Studio ', 'Java', 'Firebase', 'Material UI'],
         code: 'https://github.com/bhaveshppatil/Happn',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://github.com/bhaveshppatil/Happn',
         image: two
     },
     {
@@ -70,7 +70,7 @@ export const projectsData = [
         projectDesc: 'Simple stopwatch android app, which is developed using JAVA',
         tags: ['Android Studio', 'Services', 'Material UI'],
         code: 'https://github.com/bhaveshppatil/StopWatch_SW',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+        demo: 'https://github.com/bhaveshppatil/StopWatch_SW',
         image: one
     },
     {
