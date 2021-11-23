@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b19fed33.chunk.css",
-    "main.js": "/static/js/main.132b7f0d.chunk.js",
-    "main.js.map": "/static/js/main.132b7f0d.chunk.js.map",
+    "main.js": "/static/js/main.87eb1a1b.chunk.js",
+    "main.js.map": "/static/js/main.87eb1a1b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2daffdb4.js",
     "runtime-main.js.map": "/static/js/runtime-main.2daffdb4.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -57,7 +57,6 @@
     "static/media/eduPurple.b06b4e8e.svg": "/static/media/eduPurple.b06b4e8e.svg",
     "static/media/eduRed.a44e7ceb.svg": "/static/media/eduRed.a44e7ceb.svg",
     "static/media/eduYellow.8ad4464e.svg": "/static/media/eduYellow.8ad4464e.svg",
-    "static/media/eight.055ac6c9.svg": "/static/media/eight.055ac6c9.svg",
     "static/media/expBlack.bb06cbee.svg": "/static/media/expBlack.bb06cbee.svg",
     "static/media/expBlue.fc91e37c.svg": "/static/media/expBlue.fc91e37c.svg",
     "static/media/expGreen.16b06cc5.svg": "/static/media/expGreen.16b06cc5.svg",
@@ -148,6 +147,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.540f8eaf.chunk.js",
     "static/css/main.b19fed33.chunk.css",
-    "static/js/main.132b7f0d.chunk.js"
+    "static/js/main.87eb1a1b.chunk.js"
   ]
 }
