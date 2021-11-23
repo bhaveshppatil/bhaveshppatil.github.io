@@ -5,7 +5,7 @@ import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
+// import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
@@ -34,7 +34,7 @@ export const projectsData = [
         projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
         tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
         code: 'https://github.com/bhaveshppatil/_Foodvisor_',
-        demo: 'https://github.com/bhaveshppatil/_Foodvisor_',
+        demo: 'https://drive.google.com/file/d/16Cu1sorftvj-CFHfXNQhweCbcHRz8n08/view?usp=sharing',
         image: five
     },
     {
