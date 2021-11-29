@@ -68,7 +68,7 @@
     flex: 0.5;
 }
 
-@media (min-width: 992px) and (max-width: 1580px) {
+@media (min-width: 992px) and (max-width: 1780px) {
 
     .about-description > h2 {
       font-size: 3.3rem;
