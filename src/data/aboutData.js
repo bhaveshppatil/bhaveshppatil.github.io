@@ -1,8 +1,8 @@
 export const aboutData = {
     title: "About Me",
-    description1:"I have always found myself drawn to mobiles and computers and have tried to understand their working. This interest grew over the years and after completing my schooling, I decided to pursue a career in this field. After buying my first laptop, I started to learn about coding from various online sources, within two months I was able to create my first location-based application.",
-    description2:"In order to create a sustainable career, I realized the need for professional training and joined Masai School for a full-stack Android development course. Through my experiences here, I see myself growing as a better developer daily.",
-    description3:"I have worked on interesting collaborative projects. I believe, that as an aspiring developer, the learning never stops and the professional journey is a series of challenging experiences.",
-    description4:"I am passionate about building innovative projects and excelling in their development and look forward to growing with a creative organization. ",
-    image: 1
+    description1:"Hi! I am Bhavesh, an aspiring full stack Android developer based in Mumbai, India.",
+    description2:"I have been developing an android app for more than 6 months now. I have acquired technical skills and proficiency in programming languages ​​like Java, Kotlin, Android Studio, Room Database, MVVM-Architecture, Data Structures and Algorithms etc.",   
+    description3:"I've worked on interesting collaborative and personal projects. I believe that as an aspiring developer, learning never stops and the professional journey is a series of challenging experiences.",   
+    description4:"I am passionate about building innovative projects and excelling in their development and look forward to growing with a creative organization.",  
+      image: 1
 }
