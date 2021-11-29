@@ -30,12 +30,13 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Foodvisor App',
-        projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
-        tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
-        code: 'https://github.com/bhaveshppatil/_Foodvisor_',
-        demo: 'https://drive.google.com/file/d/16Cu1sorftvj-CFHfXNQhweCbcHRz8n08/view?usp=sharing',
-        image: five
+        projectName: 'Quiz App',
+        projectDesc: 'This is a simple quiz application with SQLite database🎲🎡💥',
+        tags: ['Kotlin', 'SQLite', 'Android'],
+        code: 'https://github.com/bhaveshppatil/_QuizApp_',
+        demo: 'https://play.google.com/store/apps/details?id=com.masai.quizapp',
+        image: seven
+      
     },
     {
         id: 4,
@@ -48,12 +49,12 @@ export const projectsData = [
     },
     {
         id: 5,
-        projectName: 'Quiz App',
-        projectDesc: 'This is a simple quiz application with SQLite database🎲🎡💥',
-        tags: ['Kotlin', 'SQLite', 'Android'],
-        code: 'https://github.com/bhaveshppatil/_QuizApp_',
-        demo: 'https://github.com/bhaveshppatil/_QuizApp_',
-        image: seven
+         projectName: 'Foodvisor App',
+        projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
+        tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
+        code: 'https://github.com/bhaveshppatil/_Foodvisor_',
+        demo: 'https://drive.google.com/file/d/16Cu1sorftvj-CFHfXNQhweCbcHRz8n08/view?usp=sharing',
+        image: five
     },
     {
         id: 6,
