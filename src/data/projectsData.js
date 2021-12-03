@@ -30,10 +30,10 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Quiz App',
-        projectDesc: 'This is a simple quiz application with SQLite database🎲🎡💥',
-        tags: ['Kotlin', 'SQLite', 'Android'],
-        code: 'https://github.com/bhaveshppatil/_QuizApp_',
+        projectName: 'Quiziva App',
+        projectDesc: 'Quziva app helps us to attempt various quizzes, prepare for interview and enhance programming skills.🎲🎡💥',
+        tags: ['Kotlin', 'Room-DB', 'MVVM','Android'],
+        code: 'https://github.com/bhaveshppatil/_Quiziva_',
         demo: 'https://play.google.com/store/apps/details?id=com.masai.quizapp',
         image: seven
       
@@ -49,7 +49,7 @@ export const projectsData = [
     },
     {
         id: 5,
-         projectName: 'Foodvisor App',
+        projectName: 'Foodvisor App',
         projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
         tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
         code: 'https://github.com/bhaveshppatil/_Foodvisor_',

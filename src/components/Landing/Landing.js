@@ -9,11 +9,11 @@ import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
 
 import {
-    FaTwitter,
     FaLinkedin,
     FaGithub,
     FaYoutube,
     FaBlogger,
+    FaMedium,
 } from 'react-icons/fa';
 
 function Landing() {
@@ -101,16 +101,16 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {socialsData.twitter && (
+                        {socialsData.medium && (
                             <a
-                                href={socialsData.twitter}
+                                href={socialsData.medium}
                                 target='_blank'
                                 rel='noreferrer'
                             >
-                                <FaTwitter
+                                <FaMedium
                                     className='landing--social'
                                     style={{ color: theme.secondary }}
-                                    aria-label='Twitter'
+                                    aria-label='Medium'
                                 />
                             </a>
                         )}

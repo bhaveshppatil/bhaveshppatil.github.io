@@ -6,6 +6,7 @@ import docker from '../assets/svg/skills/docker.svg'
 import adobeXd from '../assets/svg/skills/adobe-xd.svg'
 import afterEffects from '../assets/svg/skills/after-effects.svg'
 import css from '../assets/svg/skills/css.svg'
+import android from '../assets/svg/skills/android.svg'
 import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
@@ -95,6 +96,8 @@ export const skillsImage = (skill) => {
             return afterEffects;
         case 'css':
             return css;
+        case 'android':
+                return android;
         case 'angular':
             return angular;
         case 'javascript':

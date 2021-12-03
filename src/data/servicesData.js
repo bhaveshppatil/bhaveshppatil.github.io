@@ -25,8 +25,8 @@ export const servicesData = [
     // },
     {
         id: 4,
-        title: 'Internet Research',
-        icon: <FaInternetExplorer />
+        title:  'App Designing',
+        icon: <BsCodeSlash />
     },
     // {
     //     id: 5,
@@ -36,8 +36,8 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'App Designing',
-        icon: <BsCodeSlash />
+        title: 'Internet Research',
+        icon: <FaInternetExplorer/>
     },
     {
         id: 7,
