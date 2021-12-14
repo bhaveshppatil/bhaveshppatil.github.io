@@ -11,11 +11,11 @@ import eight from '../assets/svg/projects/cyber.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'PasswordEncrypto',
+        projectName: 'PasswordEncrypto App',
         projectDesc: 'PasswordEncryptor is an app to generate strong passwords and encrypt and decrypt data🔐',
         tags: ['Android Studio', 'Kotlin','Material Ui'],
         code: 'https://github.com/bhaveshppatil/PasswordEncrypto',
-        demo: 'https://drive.google.com/file/d/17ndKTGnjmOPWszBJ39s8an_xiIaZPSHB/view?usp=sharing',
+        demo: 'https://drive.google.com/file/d/1tVwN6PyzGTskYkM4gg4AGQhpbgQ5qbkI/view?usp=sharing',
         image: eight
     },
     {
@@ -30,7 +30,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Quiziva App',
+        projectName: 'Quiziva: coding and interview',
         projectDesc: 'Quziva app helps us to attempt various quizzes, prepare for interview and enhance programming skills.🎲🎡💥',
         tags: ['Kotlin', 'Room-DB', 'MVVM','Android'],
         code: 'https://github.com/bhaveshppatil/_Quiziva_',
@@ -40,21 +40,22 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'BookMyShow App ',
-        projectDesc: 'Bookmyshow is Indias largest entertainment ticket booking platform. Its a Service which allows users to buy tickets for movies, concerts and much more',
-        tags: ['Firebase', 'Java','Glide', 'Retrofit','Navigation', 'Fragments', 'Material Ui'],
-        code: 'https://github.com/bhaveshppatil/BookMyShow',
-        demo: 'https://github.com/bhaveshppatil/BookMyShow',
-        image: three
-    },
-    {
-        id: 5,
         projectName: 'Foodvisor App',
         projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
         tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
         code: 'https://github.com/bhaveshppatil/_Foodvisor_',
         demo: 'https://drive.google.com/file/d/16Cu1sorftvj-CFHfXNQhweCbcHRz8n08/view?usp=sharing',
         image: five
+    },
+    {
+        id: 5,
+        projectName: 'BookMyShow App ',
+        projectDesc: 'Bookmyshow is Indias largest entertainment ticket booking platform. Its a Service which allows users to buy tickets for movies, concerts and much more',
+        tags: ['Firebase', 'Java','Glide', 'Retrofit','Navigation', 'Fragments', 'Material Ui'],
+        code: 'https://github.com/bhaveshppatil/BookMyShow',
+        demo: 'https://github.com/bhaveshppatil/BookMyShow',
+        image: three
+    
     },
     {
         id: 6,
@@ -67,21 +68,22 @@ export const projectsData = [
     },
     {
         id: 7,
-        projectName: 'Stop Watch App',
-        projectDesc: 'Simple stopwatch android app, which is developed using JAVA',
-        tags: ['Android Studio', 'Services', 'Material UI'],
-        code: 'https://github.com/bhaveshppatil/StopWatch_SW',
-        demo: 'https://github.com/bhaveshppatil/StopWatch_SW',
-        image: one
-    },
-    {
-        id: 8,
         projectName: 'Yummly Recipes Cooking Tools App',
         projectDesc: 'Yummly is the smart cooking app thats all about YOU. Yummly is here to help you conquer the kitchen, your way.',
         tags: ['Java', 'Kotlin', 'JSON', 'Retrofit', 'Material UI', 'Firebase'],
         code: 'https://github.com/bhaveshppatil/YummlyRecipesCookingTools',
         demo: 'https://github.com/bhaveshppatil/YummlyRecipesCookingTools',
         image: five
+    },
+    {
+        id: 8,
+        projectName: 'Stop Watch App',
+        projectDesc: 'Simple stopwatch android app, which is developed using JAVA',
+        tags: ['Android Studio', 'java', 'Services', 'Material UI'],
+        code: 'https://github.com/bhaveshppatil/StopWatch_SW',
+        demo: 'https://github.com/bhaveshppatil/StopWatch_SW',
+        image: one
+    
     },
 ]
 
