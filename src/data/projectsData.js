@@ -3,7 +3,7 @@ import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
-// import six from '../assets/svg/projects/six.svg'
+import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/cyber.svg'
 
@@ -11,7 +11,7 @@ import eight from '../assets/svg/projects/cyber.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'PasswordEncrypto App',
+        projectName: 'PasswordEncrypto',
         projectDesc: 'PasswordEncryptor is an app to generate strong passwords and encrypt and decrypt data🔐',
         tags: ['Android Studio', 'Kotlin','Material Ui'],
         code: 'https://github.com/bhaveshppatil/PasswordEncrypto',
@@ -20,6 +20,16 @@ export const projectsData = [
     },
     {
         id: 2,
+        projectName: 'Real Time Location',
+        projectDesc: 'Location-based app, that is used to see location data, Direction & Weather condition📍⛈🌍',
+        tags: ['Java, Kotlin','Google SDK','Retrofit','Firebase'],
+        code: 'https://github.com/bhaveshppatil/Real_Time_Location',
+        demo: 'https://drive.google.com/file/d/1gVXaHFbfXMDfgqgBIyfqOKvWfctG7FJN/view?usp=sharing',
+        image: six
+       
+    },
+    {
+        id: 3,
         projectName: 'TickTask: Routine Manager',
         projectDesc: 'Task manager app which helps you to make a schedule, manage time and stay focused.🚴‍♂️💪📱',
         tags: ['Kotlin', 'Room-DB', 'MVVM','Material-UI','Firebase'],
@@ -29,7 +39,7 @@ export const projectsData = [
        
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Quiziva: coding and interview',
         projectDesc: 'Quziva app helps us to attempt various quizzes, prepare for interview and enhance programming skills.🎲🎡💥',
         tags: ['Kotlin', 'Room-DB', 'MVVM','Android'],
@@ -39,7 +49,7 @@ export const projectsData = [
       
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Foodvisor App',
         projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
         tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
@@ -48,7 +58,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 5,
+        id: 6,
         projectName: 'BookMyShow App ',
         projectDesc: 'Bookmyshow is Indias largest entertainment ticket booking platform. Its a Service which allows users to buy tickets for movies, concerts and much more',
         tags: ['Firebase', 'Java','Glide', 'Retrofit','Navigation', 'Fragments', 'Material Ui'],
@@ -58,7 +68,7 @@ export const projectsData = [
     
     },
     {
-        id: 6,
+        id: 7,
         projectName: 'Happn Online Dating App ',
         projectDesc: 'Happn is a location-based app that allows users to interact with each other consensually.',
         tags: ['Android Studio ', 'Java', 'Firebase', 'Material UI'],
@@ -67,7 +77,7 @@ export const projectsData = [
         image: two
     },
     {
-        id: 7,
+        id: 8,
         projectName: 'Yummly Recipes Cooking Tools App',
         projectDesc: 'Yummly is the smart cooking app thats all about YOU. Yummly is here to help you conquer the kitchen, your way.',
         tags: ['Java', 'Kotlin', 'JSON', 'Retrofit', 'Material UI', 'Firebase'],
@@ -76,7 +86,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 8,
+        id: 9,
         projectName: 'News App',
         projectDesc: 'News app',
         tags: ['Android Studio', 'Kotlin', 'Room-DB', 'Dagger', 'retrofit'],
