@@ -77,11 +77,11 @@ export const projectsData = [
     },
     {
         id: 8,
-        projectName: 'Stop Watch App',
-        projectDesc: 'Simple stopwatch android app, which is developed using JAVA',
-        tags: ['Android Studio', 'java', 'Services', 'Material UI'],
-        code: 'https://github.com/bhaveshppatil/StopWatch_SW',
-        demo: 'https://github.com/bhaveshppatil/StopWatch_SW',
+        projectName: 'News App',
+        projectDesc: 'News app',
+        tags: ['Android Studio', 'Kotlin', 'Room-DB', 'Dagger', 'retrofit'],
+        code: 'https://github.com/bhaveshppatil/NewsApp',
+        demo: 'https://drive.google.com/file/d/1ZHUxRt-6bicDtJHo4IWOem-v2OD78bYO/view?usp=sharing',
         image: one
     
     },
