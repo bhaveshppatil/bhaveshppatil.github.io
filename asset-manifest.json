@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9aee818c.chunk.css",
-    "main.js": "/static/js/main.e58e819f.chunk.js",
-    "main.js.map": "/static/js/main.e58e819f.chunk.js.map",
+    "main.js": "/static/js/main.5f2dd4d5.chunk.js",
+    "main.js.map": "/static/js/main.5f2dd4d5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.45cc1f06.js",
     "runtime-main.js.map": "/static/js/runtime-main.45cc1f06.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -123,6 +123,7 @@
     "static/media/ruby.775cc228.svg": "/static/media/ruby.775cc228.svg",
     "static/media/selenium.f0d42a91.svg": "/static/media/selenium.f0d42a91.svg",
     "static/media/seven.d5cabb8e.svg": "/static/media/seven.d5cabb8e.svg",
+    "static/media/six.04a89b5f.svg": "/static/media/six.04a89b5f.svg",
     "static/media/sketch.fa6d7eb5.svg": "/static/media/sketch.fa6d7eb5.svg",
     "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf",
     "static/media/strapi.74cc583e.svg": "/static/media/strapi.74cc583e.svg",
@@ -148,6 +149,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.af643dbd.chunk.js",
     "static/css/main.9aee818c.chunk.css",
-    "static/js/main.e58e819f.chunk.js"
+    "static/js/main.5f2dd4d5.chunk.js"
   ]
 }
