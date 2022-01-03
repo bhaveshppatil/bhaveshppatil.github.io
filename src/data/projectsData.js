@@ -23,7 +23,7 @@ export const projectsData = [
         projectName: 'Real Time Location',
         projectDesc: 'Location-based app, that is used to see location data, Direction & Weather condition📍⛈🌍',
         tags: ['Java, Kotlin','Google SDK','Retrofit','Firebase'],
-        code: 'https://github.com/bhaveshppatil/Real_Time_Location',
+        code: 'https://www.notion.so/Real-Time-Location-Compass-Weather-f84d90f2628b41bbb95cc5c6ea286af2',
         demo: 'https://drive.google.com/file/d/1gVXaHFbfXMDfgqgBIyfqOKvWfctG7FJN/view?usp=sharing',
         image: six
        
