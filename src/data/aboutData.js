@@ -6,4 +6,5 @@ export const aboutData = {
     description4:"A strong understanding of memory management & multithreading environments, as well as extensive experience with Firebase, Keychain, Room-DB, Core Location, MapKit, and other third-party frameworks. Built innovative apps across a variety of domains, including fintech, food, news, and lifestyle",
     description5:"Having acquired all my skillset and toolset, I am looking forward to growing with one creative organization.",  
     image: 1
+    
 }
