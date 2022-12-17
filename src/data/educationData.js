@@ -10,7 +10,7 @@ export const educationData = [
         id: 2,
         institution: 'Government Polytechnic Pen',
         course: 'Diploma of Education, Field Of Study Computer Technology',
-        startYear: '2017',
+        startYear: '2016',
         endYear: '2019'
     },
     {

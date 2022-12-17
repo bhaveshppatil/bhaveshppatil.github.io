@@ -2,7 +2,7 @@ export const socialsData = {
     github: 'https://github.com/bhaveshppatil',
     facebook: 'https://www.facebook.com/',
     linkedIn: 'https://www.linkedin.com/in/bhavesh-patil-78b346204/',
-    instagram: 'https://www.instagram.com/bhavesh_.patil/',
+    // instagram: 'https://www.instagram.com/bhavesh_.patil/',
     // codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/bhavesh__patil',
     // reddit: 'https://www.reddit.com/user/',

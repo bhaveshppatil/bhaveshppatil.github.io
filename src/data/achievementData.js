@@ -3,41 +3,19 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Android Developement',
-            details : 'Full Stack Android Developement Course at Masai School with subjects like Java, DS, Algorithms, Android, Kotlin, SQLite, MVVM.',
-            date : 'April 20, 2021',
-            field : 'Computer',
-            image : 'https://cdn.pixabay.com/photo/2015/10/18/18/07/android-994910_960_720.jpg'
+            title : 'Real-Time Location App',
+            details : 'Final project - Build a location-based app to track users current location and weather data. Also, they can share and save their current location. Moreover, this app includes features such as a Compass, driving routes, nearby locations, and normal and satellite map views. ',
+            date : 'Feb, 2021',
+            field : 'Development',
+            image : 'https://cdn-icons-png.flaticon.com/512/5928/5928273.png'
         },
         {
             id : 2,
-            title : 'Ethical Hacking',
-            details : 'Become an ethical hacker that can hack computer systems like black hat hackers and secure them like security experts.',
-            date : 'Feb 18 2020',
-            field : 'Cyber Security',
-            image : 'https://cdn.pixabay.com/photo/2019/04/29/09/33/anonymous-4165613_960_720.jpg'
+            title : 'Password Encrypto App',
+            details : 'Hackathon Project - \nBuild a password encryption app in just two days with features such as generating strong password by combining letters, symbols & numbers. This app is also capable of encrypting and decrypting data with multiple encryption techniques, and the option is given to save the encrypted data & key.🔐',
+            date : 'Nov 18 2021',
+            field : 'Development',
+            image : 'https://cdn-icons-png.flaticon.com/512/8662/8662564.png'
         },
-        // {
-        //     id : 3,
-        //     title : 'Fundamentals of digital marketing',
-        //     details : 'Master the basics of digital marketing with our free Interactive Advertising Bureau-accredited course. There are 26 modules to explore, all created by Google trainers.',
-        //     date : 'Aug 20, 2019',
-        //     field : 'Computer',
-        //     image : 'https://lh3.googleusercontent.com/JwZ74w1xLAO0n24knlxgL9HZJo3NTN3V44YrtyXZvivX4sHYmiyBs89KIxTOIYTR4IDgFq-VFx6L3gutEpDkpicLzl96KKSYbVh3f08'
-        // }
-
     ]
 }
-
-
-// Do not remove any fields.
-// Leave it blank instead as shown below.
-
-/*
-
-export const achievementData = {
-    bio : "",
-    achievements : []
-}
-
-*/

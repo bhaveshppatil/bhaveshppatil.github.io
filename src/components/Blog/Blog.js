@@ -49,7 +49,7 @@ function Blog() {
                     </div>
                     <div className="blog--body">
                         <div className="blog--bodyContainer">
-                            {blogData.slice(0, 3).reverse().map(blog => (
+                            {blogData.slice(0, 4).reverse().map(blog => (
                                 <SingleBlog 
                                     theme={theme}
                                     title={blog.title}
@@ -63,7 +63,7 @@ function Blog() {
                             ))}
                         </div> 
 
-                        {blogData.length > 3 && (
+                        {blogData.length > 4 && (
                             <div className="blog--viewAll">
                                 <Link to="/blog">
                                     <button className={classes.viewAllBtn}>

@@ -11,25 +11,35 @@ import eight from '../assets/svg/projects/cyber.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'PasswordEncrypto',
-        projectDesc: 'PasswordEncryptor is an app to generate strong passwords and encrypt and decrypt data🔐',
-        tags: ['Android Studio', 'Kotlin','Material Ui'],
-        code: 'https://github.com/bhaveshppatil/PasswordEncrypto',
-        demo: 'https://drive.google.com/file/d/1tVwN6PyzGTskYkM4gg4AGQhpbgQ5qbkI/view?usp=sharing',
-        image: eight
-    },
-    {
-        id: 2,
         projectName: 'Real Time Location',
-        projectDesc: 'Location-based app, that is used to see location data, Direction & Weather condition📍⛈🌍',
-        tags: ['Java, Kotlin','Google SDK','Retrofit','Firebase'],
+        projectDesc: 'It allows users to track their current location and weather data, share their current location with friends and family, and save their current location. Furthermore, this app offers features such as driving routes, nearby locations, and normal and satellite maps.⛈🌍',
+        tags: ['Java, Kotlin','MVVM','Google SDK','Retrofit','Firebase'],
         code: 'https://www.notion.so/Real-Time-Location-Compass-Weather-f84d90f2628b41bbb95cc5c6ea286af2',
         demo: 'https://drive.google.com/file/d/1gVXaHFbfXMDfgqgBIyfqOKvWfctG7FJN/view?usp=sharing',
         image: six
        
     },
     {
+        id: 2,
+        projectName: 'PasswordEncrypto',
+        projectDesc: 'PasswordEncrypto app provides us with a simple way of generating one strong password by combining letters, symbols & numbers. This app is also capable of encrypting and decrypting data with multiple encryption techniques, and the option is given to save the encrypted data & key.🔐',
+        tags: ['Android Studio', 'Kotlin', 'MVVM', 'Room-DB','Material Ui'],
+        code: 'https://github.com/bhaveshppatil/PasswordEncrypto',
+        demo: 'https://drive.google.com/file/d/1tVwN6PyzGTskYkM4gg4AGQhpbgQ5qbkI/view?usp=sharing',
+        image: eight
+    },
+    {
         id: 3,
+        projectName: 'PDF Library',
+        projectDesc: 'This application allows us to download multiple PDF files and save them in our file directory. It is also capable of identifying downloaded PDF files so users do not have to download them again.',
+        tags: ['Xcode', 'Swift 5', 'UIKit', 'URLSession', 'DispatchQueue', 'User default' ],
+        code: 'https://github.com/bhaveshppatil/PDFReaderApp',
+        demo: '',
+        image: seven
+        
+    },
+    {
+        id: 4,
         projectName: 'TickTask: Routine Manager',
         projectDesc: 'Task manager app which helps you to make a schedule, manage time and stay focused.🚴‍♂️💪📱',
         tags: ['Kotlin', 'Room-DB', 'MVVM','Material-UI','Firebase'],
@@ -39,7 +49,7 @@ export const projectsData = [
        
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Quiziva: coding and interview',
         projectDesc: 'Quziva app helps us to attempt various quizzes, prepare for interview and enhance programming skills.🎲🎡💥',
         tags: ['Kotlin', 'Room-DB', 'MVVM','Android'],
@@ -49,7 +59,7 @@ export const projectsData = [
       
     },
     {
-        id: 5,
+        id: 6,
         projectName: 'Foodvisor App',
         projectDesc: 'Foodvisor is the app for adopting healthier habits and losing weight🍔💪🍹',
         tags: ['Kotlin', 'Room-DB','Firebase', 'Retrofit','Navigation', 'Glide', 'Material Ui'],
@@ -58,7 +68,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 6,
+        id: 7,
         projectName: 'BookMyShow App ',
         projectDesc: 'Bookmyshow is Indias largest entertainment ticket booking platform. Its a Service which allows users to buy tickets for movies, concerts and much more',
         tags: ['Firebase', 'Java','Glide', 'Retrofit','Navigation', 'Fragments', 'Material Ui'],
@@ -68,7 +78,7 @@ export const projectsData = [
     
     },
     {
-        id: 7,
+        id: 8,
         projectName: 'Happn Online Dating App ',
         projectDesc: 'Happn is a location-based app that allows users to interact with each other consensually.',
         tags: ['Android Studio ', 'Java', 'Firebase', 'Material UI'],
@@ -77,7 +87,7 @@ export const projectsData = [
         image: two
     },
     {
-        id: 8,
+        id: 9,
         projectName: 'Yummly Recipes Cooking Tools App',
         projectDesc: 'Yummly is the smart cooking app thats all about YOU. Yummly is here to help you conquer the kitchen, your way.',
         tags: ['Java', 'Kotlin', 'JSON', 'Retrofit', 'Material UI', 'Firebase'],
@@ -86,7 +96,7 @@ export const projectsData = [
         image: five
     },
     {
-        id: 9,
+        id: 10,
         projectName: 'News App',
         projectDesc: 'News app',
         tags: ['Android Studio', 'Kotlin', 'Room-DB', 'Dagger', 'retrofit'],

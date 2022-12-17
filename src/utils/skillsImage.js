@@ -7,6 +7,10 @@ import adobeXd from '../assets/svg/skills/adobe-xd.svg'
 import afterEffects from '../assets/svg/skills/after-effects.svg'
 import css from '../assets/svg/skills/css.svg'
 import android from '../assets/svg/skills/android.svg'
+import ios from '../assets/svg/skills/ios.svg'
+import jira from '../assets/svg/skills/jira.svg'
+import postman from '../assets/svg/skills/postman.svg'
+import bitbucket from '../assets/svg/skills/bitbucket.svg'
 import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
@@ -88,6 +92,14 @@ export const skillsImage = (skill) => {
             return photoshop;
         case 'docker':
             return docker;
+        case 'bitbucket':
+            return bitbucket;
+        case 'jira':
+             return jira;
+        case 'postman':
+            return postman;
+        case 'ios':
+             return ios;
         case 'illustrator':
             return illustrator;
         case 'adobe xd':
