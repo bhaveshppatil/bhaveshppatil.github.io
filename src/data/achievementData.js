@@ -4,7 +4,7 @@ export const achievementData = {
         {
             id : 1,
             title : 'Real-Time Location App',
-            details : 'Final project - Build a location-based app to track users current location and weather data. Also, they can share and save their current location. Moreover, this app includes features such as a Compass, driving routes, nearby locations, and normal and satellite map views. ',
+            details : 'Develop a location-based app to track users current location and weather data. It also allows them to share and save their location. Furthermore, this app includes a Compass, driving routes, nearby locations, and normal and satellite maps.',
             date : 'Feb, 2021',
             field : 'Development',
             image : 'https://cdn-icons-png.flaticon.com/512/5928/5928273.png'

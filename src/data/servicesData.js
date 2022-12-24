@@ -14,13 +14,11 @@ export const servicesData = [
         title: 'Android Development',
         icon: <BiMobile /> 
     },
-  
     {
         id: 4,
         title:  'iOS Development',
         icon: <BiMobile />
     },
-
     {
         id: 6,
         title: 'App Designing',

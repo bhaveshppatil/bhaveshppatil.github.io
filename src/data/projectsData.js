@@ -22,7 +22,7 @@ export const projectsData = [
     {
         id: 2,
         projectName: 'PasswordEncrypto',
-        projectDesc: 'PasswordEncrypto app provides us with a simple way of generating one strong password by combining letters, symbols & numbers. This app is also capable of encrypting and decrypting data with multiple encryption techniques, and the option is given to save the encrypted data & key.🔐',
+        projectDesc: 'PasswordEncrypto generates one strong password by combining letters, symbols & numbers. Additionally, this app can encrypt and decrypt data with multiple encryption techniques, and the key can be saved.🔐',
         tags: ['Android Studio', 'Kotlin', 'MVVM', 'Room-DB','Material Ui'],
         code: 'https://github.com/bhaveshppatil/PasswordEncrypto',
         demo: 'https://drive.google.com/file/d/1tVwN6PyzGTskYkM4gg4AGQhpbgQ5qbkI/view?usp=sharing',
