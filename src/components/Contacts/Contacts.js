@@ -143,11 +143,11 @@ function Contacts() {
                 axios.post(contactsData.sheetAPI, responseData).then((res) => {
                     console.log('success');
                     setSuccess(true);
-                    setErrMsg('');
+                    setErrMsg('Something went wrong');
 
-                    setName('');
-                    setEmail('');
-                    setMessage('');
+                    setName(name);
+                    setEmail(email);
+                    setMessage(message);
                     setOpen(false);
                 });
             } else {

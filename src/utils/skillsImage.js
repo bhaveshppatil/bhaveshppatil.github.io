@@ -242,6 +242,8 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+            case 'GitLab':
+                return 'https://commons.wikimedia.org/wiki/File:GitLab_logo_(2).svg';
         default:
             break;
     }

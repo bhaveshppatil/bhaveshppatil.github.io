@@ -11,6 +11,16 @@ import eight from '../assets/svg/projects/cyber.svg'
 export const projectsData = [
     {
         id: 1,
+        projectName: 'AgroWorld',
+        projectDesc: 'It is a farming application that helps farmers to track climate data and forecast information as well as find manufacturers and transporters from which the farmer can purchase seeds at an affordable price.',
+        tags: [ 'Android Studio', 'Java', 'Room-DB | Sheet-DB | Firebase', 'MVVM', 'ViewPager', 'OpenWeatherMap', 'GeoCoder', 'Razorpay', 'Alarm Manager', 'Glide', 'Retrofit', 'JSON', 'Shimmer', 'Fragments'],
+        code: 'https://github.com/bhaveshppatil',
+        demo: 'https://bhaveshppatil.notion.site/Agro-World-be34cad60def41ffb1ae9993aa3c9181?pvs=4',
+        image: five
+       
+    },
+    {
+        id: 2,
         projectName: 'Real Time Location',
         projectDesc: 'It allows users to track their current location and weather data, share their current location with friends and family, and save their current location. Furthermore, this app offers features such as driving routes, nearby locations, and normal and satellite maps.⛈🌍',
         tags: ['Java, Kotlin','MVVM','Google SDK','Retrofit','Firebase'],
@@ -20,7 +30,7 @@ export const projectsData = [
        
     },
     {
-        id: 2,
+        id: 3,
         projectName: 'PasswordEncrypto',
         projectDesc: 'PasswordEncrypto generates one strong password by combining letters, symbols & numbers. Additionally, this app can encrypt and decrypt data with multiple encryption techniques, and the key can be saved.🔐',
         tags: ['Android Studio', 'Kotlin', 'MVVM', 'Room-DB','Material Ui'],
